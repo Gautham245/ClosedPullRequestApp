@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Closed Pull Request App</string>
+    <string name="closed_time">Closed Time :</string>
+    <string name="created_time">Created Time :</string>
+</resources>
